@@ -1,5 +1,5 @@
 <img width="1345" height="745" alt="Screenshot" src="https://github.com/user-attachments/assets/469d3fed-77ad-4b0e-b098-934c8e0a5b07" />
-ospital ER Operations Analysis & Strategic Insights
+🏥 Hospital ER Operations Analysis & Strategic Insights
 📋 Project Overview
 An end-to-end data analytics project focused on optimizing Emergency Room operations for a high-volume hospital. By analyzing over 9,200 patient records, this project identifies operational bottlenecks, patient demographic trends, and critical data governance gaps to improve healthcare delivery.
 🛠️ Tech Stack
