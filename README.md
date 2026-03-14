@@ -30,3 +30,5 @@ An end-to-end data analytics project focused on optimizing Emergency Room operat
     /Python_Analysis/: Jupyter Notebooks for statistical modeling and correlation.
     /Dashboards/: Power BI .pbix files and screenshots of interactive reports.
     /Reports/: Final executive summary and strategic recommendations.
+
+Dataset Link: https://www.kaggle.com/datasets/xavierberge/hospital-emergency-dataset
