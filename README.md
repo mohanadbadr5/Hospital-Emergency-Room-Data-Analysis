@@ -2,7 +2,7 @@
 🏥 Hospital ER Operations Analysis & Strategic Insights
 📋 Project Overview
 An end-to-end data analytics project focused on optimizing Emergency Room operations for a high-volume hospital. By analyzing over 9,200 patient records, this project identifies operational bottlenecks, patient demographic trends, and critical data governance gaps to improve healthcare delivery.
-🛠️ Tech Stack
+🛠️ Tech Stack ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
     Database: Microsoft SQL Server (T-SQL, CTEs, Window Functions)
     Analysis: Python (Jupyter Notebook, Pandas, NumPy)
